@@ -1,0 +1,18 @@
+{
+  "name": "samplenodejsapp",
+  "version": "1.0.0",
+  "description": "Sample NodeJS App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Sayan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "random-jokes-api": "^1.5.9",
+    "random-words": "^1.2.1",
+    "winston": "latest"
+  }
+}
